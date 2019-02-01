@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/pessoal/projetos/phps/finpath/app/User.php</file>
+            <file>file:/D:/pessoal/projetos/phps/finpath/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/D:/pessoal/projetos/phps/finpath/routes/api.php</file>
+            <file>file:/D:/pessoal/projetos/phps/finpath/database/seeds/UsersTableSeeder.php</file>
+            <file>file:/D:/pessoal/projetos/phps/finpath/database/seeds/ArticlesTableSeeder.php</file>
+            <file>file:/D:/pessoal/projetos/phps/finpath/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/D:/pessoal/projetos/phps/finpath/app/Article.php</file>
+        </group>
+    </open-files>
+</project-private>
